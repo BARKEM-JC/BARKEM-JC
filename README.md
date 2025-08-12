@@ -1,8 +1,11 @@
 [![Email](https://img.shields.io/badge/Email-developer.jaydenc%40outlook.com.au-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:developer.jaydenc@outlook.com.au)  
 [![GitHub](https://img.shields.io/badge/GitHub-BARKEM--JC-black?style=for-the-badge&logo=github)](https://github.com/BARKEM-JC)  
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-BARKEM-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/BARKEM)
-[![PyPi](https://pypi.org/project/browser-use-undetected/)
 ---
+
+## Published
+browser-use-undetected
+ - [![PyPI](https://img.shields.io/pypi/v/browser-use-undetected.svg)](https://pypi.org/project/browser-use-undetected/)
 
 ## Summary
 
