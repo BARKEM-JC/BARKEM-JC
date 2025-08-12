@@ -9,6 +9,9 @@ browser-use-undetected
 simple-botmaker
  - [![PyPI](https://img.shields.io/pypi/v/browser-use-undetected.svg)](https://pypi.org/project/simple-botmaker/)
 
+BuhurtCV Demo (Custom trained YoloV8 & OpenCV)
+ - [![Watch Demo on YouTube](https://img.shields.io/badge/YouTube-Play-red?logo=youtube&style=flat-square)](https://youtu.be/EhLPmfXML5Q "Watch the demo video on YouTube")
+
 ## Summary
 
 Passionate software & game developer with expertise in Unreal Engine,  
