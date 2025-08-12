@@ -30,7 +30,6 @@ Thrives on creative problem-solving and building impactful technology.
 - Game Development: GUI design, Unreal Engine 4 & 5, C++ scripting, blueprint scripting, AI design, animation, 3D modeling.  
 - App Development: Full stack, UI/UX design, database development/management, API handling, Kotlin/Java/Flutter/Dart programming.  
 - Software Engineering: High & low level programming, Python/C++/C#/JavaScript, API design.
-- 
 ---
 
 ## Interests
