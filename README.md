@@ -6,6 +6,8 @@
 ## Published
 browser-use-undetected
  - [![PyPI](https://img.shields.io/pypi/v/browser-use-undetected.svg)](https://pypi.org/project/browser-use-undetected/)
+simple-botmaker
+ - [![PyPI](https://img.shields.io/pypi/v/browser-use-undetected.svg)](https://pypi.org/project/simple-botmaker/)
 
 ## Summary
 
